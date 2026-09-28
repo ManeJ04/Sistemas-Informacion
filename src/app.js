@@ -35,5 +35,5 @@ app.use(function(req,res,next){
 
 // 8. CONFIGURAR SERVIDOR
 app.listen(3001, () => {
-    console.log('Servidor activo en puerto', 3306);
+    console.log('Servidor activo en puerto', 3001);
 });
